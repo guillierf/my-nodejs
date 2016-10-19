@@ -1,0 +1,4 @@
+to run this container:
+
+1/ docker build -t my-nodejs-centos .
+2/ dockrun run -d -p 8080:8080 my-nodejs-centos
